@@ -1,6 +1,6 @@
 # G15PracticaProfesionalizanteISPC
 
-## Mi Proyecto en Python
+## Predicción de sentimientose impacto de  acciones en redes sociales
 
 ### Integrantes
 
