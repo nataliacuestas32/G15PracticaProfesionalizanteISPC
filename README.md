@@ -1,5 +1,7 @@
 # G15PracticaProfesionalizanteISPC
-#Grupo 15 Practica Profesionalizante ISPC TCDIA C2022#
+# Mi Proyecto en Python
+
+Este es un proyecto de ejemplo en Python. Aquí puedes proporcionar una breve descripción de tu proyecto.
 #Integrantes:#
 #Eliana Karina Steinbrecher#
 #Juan Alcaraz#
@@ -11,3 +13,9 @@
 #CONTRERAS, Carla#
 #CORDOBA, Marcelo#
 #CUESTAS, Natalia#
+
+## Requisitos
+
+Asegúrate de tener Python 3 instalado en tu sistema.
+
+
