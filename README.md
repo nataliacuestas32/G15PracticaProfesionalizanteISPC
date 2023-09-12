@@ -15,4 +15,4 @@
 - CORDOBA, Marcelo
 - CUESTAS, Natalia
 
-Puedes encontrar más información en nuestro [sitio web]([https://www.ejemplo.com](https://trello.com/b/6X7uUnio/agile-board-template-trello)https://trello.com/b/6X7uUnio/agile-board-template-trello)
+Puedes encontrar más información en nuestro [TRELLO]([https://www.ejemplo.com](https://trello.com/b/6X7uUnio/agile-board-template-trello)https://trello.com/b/6X7uUnio/agile-board-template-trello)
