@@ -1,6 +1,6 @@
 # G15PracticaProfesionalizanteISPC
 
-## Predicción de sentimientose impacto de  acciones en redes sociales
+## Predicción de sentimientose impacto de acciones en redes sociales
 
 ### Integrantes
 
