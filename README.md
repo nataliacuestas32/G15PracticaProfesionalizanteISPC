@@ -1,6 +1,6 @@
-# G15PracticaProfesionalizanteISPC
+# G15 Practica Profesionalizante ISPC 2023  TCDIA COHORTE 2022
 
-## Predicción de sentimientose impacto de acciones en redes sociales
+## Predicción de sentimientos e impacto de acciones en redes sociales
 
 ### Integrantes
 
