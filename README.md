@@ -16,5 +16,5 @@
 - CUESTAS, Natalia
   
 ## El propósito del proyecto de Social Listening es implementar una estrategia de escucha activa en las redes sociales 
- para comprender las percepciones, opiniones y sentimientos de clientes y la comunidad en línea.
+## para comprender las percepciones, opiniones y sentimientos de clientes y la comunidad en línea.
 Puedes encontrar más información en nuestro TRELLO (https://trello.com/b/6X7uUnio/agile-board-template-trello)
