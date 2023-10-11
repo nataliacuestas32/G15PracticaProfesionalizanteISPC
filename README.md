@@ -28,13 +28,13 @@
 
 A lo largo de este proyecto, hemos empleado diversas librerias de Python para realizar análisis de datos, entrenar modelos y trabajar con datos. Algunas de las bibliotecas clave incluyen:
 
-- [scikit-learn](https://scikit-learn.org/stable/): Utilizada para el procesamiento de datos y la creación de modelos de aprendizaje automático.
+[scikit-learn](https://scikit-learn.org/stable/): Utilizada para el procesamiento de datos y la creación de modelos de aprendizaje automático.
 
-- [pandas](https://pandas.pydata.org/): Utilizada para la manipulación y análisis de datos tabulares.
+[pandas](https://pandas.pydata.org/): Utilizada para la manipulación y análisis de datos tabulares.
 
-- [numpy](https://numpy.org/): Utilizada para realizar operaciones matriciales y numéricas.
+[numpy](https://numpy.org/): Utilizada para realizar operaciones matriciales y numéricas.
 
-- [tweepy](https://www.tweepy.com/): Utilizada para interactuar con la API de Twitter y obtener datos relevantes.
+[tweepy](https://www.tweepy.com/): Utilizada para interactuar con la API de Twitter y obtener datos relevantes.
 
 
 - Facebook: se consiguio un archivo con xx registros asociados a 
