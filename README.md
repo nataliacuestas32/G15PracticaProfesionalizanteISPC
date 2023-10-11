@@ -25,7 +25,7 @@
 - Facebook: se consiguio un archivo con xx registros asociados a 
 - Instagram: no se valido a tiempo el uso de la api de toma de datos
 - TikTok: no se valido a tiempo el uso de la api de toma de datos. Se realizo parte del codigo que instancia la misma. 
-- Twitter: se tomo un dataset de prueba de Amazon con Review de artículos de cocina y hogar con casi 7 millones de registros. Se etiqueto con sentimientos de pésimo, negativo, neutral, positiva y excelente. Se paso a español para que sea fácil al momento de predecir.
+- Twitter: se tomo un dataset de prueba de Amazon con Review de artículos de cocina y hogar con casi 7 millones de registros. Se etiqueto con sentimientos de pésimo, negativo, neutral, positiva y excelente. Se intento pasar a español para que sea fácil al momento de predecir pero resulto que las opciones para realizar esto estaban fuera de nuestro alcance.
 Conclusion: dado los tiempos de respuesta para la obtencion de los accesos de autorización adicional de las API de las diferentes RRSS se concluye utilizar el archivo Meta.
 
 5- Carga de datos: archivo resultante de la extraccion de datos de Meta
