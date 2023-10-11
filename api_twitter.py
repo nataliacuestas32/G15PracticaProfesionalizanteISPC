@@ -18,7 +18,7 @@ search_query = "HudsonKitchen_"
 tweets = tweepy.Cursor(api.search_tweets, q=search_query).items(10)
 
 for tweet in tweets:
-    print(tweet.text)
+    print(tweet.text) 
 
 # Error generado por limitaciones de la Api gratuita: raise Forbidden(resp)
 #tweepy.errors.Forbidden: 403 Forbidden
