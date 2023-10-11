@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/101228469/172445821-245dee9a-7c37-4f00-97b4-7c03965467f3.png)
 # G15 Practica Profesionalizante ISPC 2023  TCDIA COHORTE 2022
 
 ## Predicción de sentimientos e impacto de acciones en redes sociales
