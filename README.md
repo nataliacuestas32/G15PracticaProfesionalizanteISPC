@@ -22,7 +22,7 @@
 
 3- Definir tipo de problema y objetivo: El propósito del proyecto de Social Listening es implementar una estrategia de escucha activa en las redes sociales para comprender las percepciones, opiniones y sentimientos de clientes y la comunidad en línea..
 
-(img/brief.png)
+(https://github.com/elyober/G15PracticaProfesionalizanteISPC/blob/main/image.png)
 
 4- Analisis de factibilidad legaly factibilidad técnica:
 
