@@ -1,7 +1,8 @@
 ![image](https://user-images.githubusercontent.com/101228469/172445821-245dee9a-7c37-4f00-97b4-7c03965467f3.png)
 # G15 Practica Profesionalizante ISPC 2023  TCDIA COHORTE 2022
 
-## Predicción de sentimientos e impacto de acciones en redes sociales
+## Social Media Listening :speech_balloon::ear:
+***Es la práctica de monitorear y analizar activamente las conversaciones y discusiones en las redes sociales para comprender mejor las percepciones, opiniones y sentimientos de los usuarios y la comunidad en línea. Esta práctica es fundamental para las empresas y organizaciones que desean mantenerse al tanto de lo que se dice sobre sus productos, servicios y marca en las redes sociales.***
 
 ### Integrantes
 
@@ -29,53 +30,56 @@ A lo largo de este proyecto, hemos empleado diversas librerias de Python para re
 [tweepy](https://www.tweepy.com/): Utilizada para interactuar con la API de Twitter y obtener datos relevantes.
 
   
-1- Creación del repositorio remoto llamado G15 Practica Profesionalizante ISPC
+1- **Creación del repositorio remoto llamado G15 Practica Profesionalizante ISPC**
 
-2- Armado de Trello por Equipo: [https://trello.com/b/6X7uUnio/agile-board-template-trello](https://trello.com/invite/b/6X7uUnio/ATTI6abceef26fb024674de9bc66694f633883550417/practica-profesionalizante-equipo-15)
+2- **Armado de Trello por Equipo:**
+[https://trello.com/b/6X7uUnio/agile-board-template-trello](https://trello.com/invite/b/6X7uUnio/ATTI6abceef26fb024674de9bc66694f633883550417/practica-profesionalizante-equipo-15)
 
-3- Definir tipo de problema y objetivo: El propósito del proyecto de Social Listening es implementar una estrategia de escucha activa en las redes sociales para comprender las percepciones, opiniones y sentimientos de clientes y la comunidad en línea..
+3- **Definir tipo de problema y objetivo:** 
+El propósito del proyecto de Social Listening es implementar una estrategia de escucha activa en las redes sociales para comprender las percepciones, opiniones y sentimientos de clientes y la comunidad en línea..
 
 <p align="center">
   <img src="https://i.ibb.co/tKt32RT/BRIEF-SUMMARY-GERENCIA-1.png">
 </p>
 
-4- Analisis de factibilidad legal y factibilidad técnica:
-- Facebook: se consiguio un archivo con xx registros asociados a 
-- Instagram: no se valido a tiempo el uso de la api de toma de datos
-- TikTok: no se valido a tiempo el uso de la api de toma de datos. Se realizo parte del codigo que instancia la misma. 
-- Twitter: Actualmente, estamos experimentando restricciones en las funcionalidades proporcionadas por la API gratuita de Twitter. Hemos tomado la decisión de desestimar el uso de la API debido a las limitaciones de funcionalidades en su versión gratuita
-- DataSet Amazon: se tomo un dataset de prueba de Amazon con Review de artículos de cocina y hogar con casi 7 millones de registros. Se etiqueto con sentimientos de pésimo, negativo, neutral, positiva y excelente. Se intento pasar a español para que sea fácil al momento de predecir pero resulto que las opciones para realizar esto estaban fuera de nuestro alcance.
-Conclusion: dado los tiempos de respuesta para la obtencion de los accesos de autorización adicional de las API de las diferentes RRSS se concluye utilizar el archivo Meta.
+4- **Analisis de factibilidad legal y factibilidad técnica:**
+- **Facebook:** se consiguio un archivo con xx registros asociados a 
+- **Instagram:** no se valido a tiempo el uso de la api de toma de datos
+- **TikTok:** no se valido a tiempo el uso de la api de toma de datos. Se realizo parte del codigo que instancia la misma. 
+- **Twitter:** Actualmente, estamos experimentando restricciones en las funcionalidades proporcionadas por la API gratuita de Twitter. Hemos tomado la decisión de desestimar el uso de la API debido a las limitaciones de funcionalidades en su versión gratuita
+- **DataSet Amazon:** Se utilizó un conjunto de datos de prueba de Amazon que contiene reseñas de productos relacionados con cocina y hogar, el cual consta de casi 7 millones de registros. Estos registros se etiquetaron con distintos sentimientos, incluyendo "pésimo," "negativo," "neutral," "positivo" y "excelente." Inicialmente, se intentó traducir las reseñas al español para facilitar el proceso de predicción. Sin embargo, se encontraron limitaciones técnicas que dificultaron esta tarea y estuvieron fuera de nuestro control para resolver en el tiempo requerido.
 
-5- Carga de datos: archivo resultante de la extraccion de datos de Meta
+***Conclusion: Debido a la demora en la obtención de las credenciales de autorización adicional para acceder a las API de diferentes redes sociales, se tomó la decisión de utilizar el archivo "Meta" como fuente principal de datos. Esta elección se basó en consideraciones de tiempo y recursos disponibles.***
 
-6- Fase de análisis exploratorio de datos
+5- **Carga de datos:** archivo resultante de la extraccion de datos de Meta
 
-7- Análisis sobre los datos
+6- **Fase de análisis exploratorio de datos**
 
-8- Tratamiento de los datos anómalos.
+7- **Análisis sobre los datos**
 
-9- Inspección gráfica de los estadísticos
+8- **Tratamiento de los datos anómalos**
 
-10- Observar de manera gráfica si se aprecia relación entre "y" y las "X" (ekis).
+9- **Inspección gráfica de los estadísticos**
 
-11- Análisis de datos atípicos.
+10- **Observar de manera gráfica si se aprecia relación entre "y" y las "X" (ekis)**
 
-12- Distribución de probabilidad de las muestras.
+11- **Análisis de datos atípicos**
 
-13- Definir modelos a entrenar.
+12- **Distribución de probabilidad de las muestras**
 
-14- Al finalizar el ciclo, evaluar el costo computacional (o sea, poner un timer).
+13- **Definir modelos a entrenar**
 
-15- Calcular métricas
+14- **Al finalizar el ciclo, evaluar el costo computacional (o sea, poner un timer)**
 
-16- Calcular los estadísticos (test y sus pruebas para determinar la consistencia)
+15- **Calcular métricas**
 
-17- Evaluar modelos
+16- **Calcular los estadísticos (test y sus pruebas para determinar la consistencia)**
 
-18- Determinar qué tipo de problema tiene el modelo y valorar los errores (bias,varianza y error irreductible)
+17- **Evaluar modelos**
 
-19- Conclusión y futuro plan de acción para iniciar otro ciclo
+18- **Determinar qué tipo de problema tiene el modelo y valorar los errores (bias,varianza y error irreductible)**
 
-20- Evaluar hiper parámetros y estrategias de entrenamiento. 
--Repetir esto hasta lograr un modelo consistente y de performante
+19- **Conclusión y futuro plan de acción para iniciar otro ciclo**
+
+20- **Evaluar hiper parámetros y estrategias de entrenamiento**
+-***Repetir esto hasta lograr un modelo consistente y de performante***
