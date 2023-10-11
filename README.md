@@ -20,7 +20,7 @@
 
 2- Armado de Trello por Equipo: [https://trello.com/b/6X7uUnio/agile-board-template-trello](https://trello.com/invite/b/6X7uUnio/ATTI6abceef26fb024674de9bc66694f633883550417/practica-profesionalizante-equipo-15)
 
-3- Definir tipo de problema y objetivo: El propósito del proyecto de Social Listening es implementar una estrategia de escucha activa en las redes sociales para comprender las percepciones, opiniones y sentimientos de clientes y la comunidad en línea.
+3- Definir tipo de problema y objetivo: El propósito del proyecto de Social Listening es implementar una estrategia de escucha activa en las redes sociales para comprender las percepciones, opiniones y sentimientos de clientes y la comunidad en línea..
 
 4- Analisis de factibilidad legaly factibilidad técnica:
 
