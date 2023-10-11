@@ -23,10 +23,25 @@
 3- Definir tipo de problema y objetivo: El propósito del proyecto de Social Listening es implementar una estrategia de escucha activa en las redes sociales para comprender las percepciones, opiniones y sentimientos de clientes y la comunidad en línea.
 
 4- Analisis de factibilidad legaly factibilidad técnica:
+
+### Librerias Utilizadas
+
+A lo largo de este proyecto, hemos empleado diversas librerias de Python para realizar análisis de datos, entrenar modelos y trabajar con datos. Algunas de las bibliotecas clave incluyen:
+
+- [scikit-learn](https://scikit-learn.org/stable/): Utilizada para el procesamiento de datos y la creación de modelos de aprendizaje automático.
+
+- [pandas](https://pandas.pydata.org/): Utilizada para la manipulación y análisis de datos tabulares.
+
+- [numpy](https://numpy.org/): Utilizada para realizar operaciones matriciales y numéricas.
+
+- [tweepy](https://www.tweepy.com/): Utilizada para interactuar con la API de Twitter y obtener datos relevantes.
+
+
 - Facebook: se consiguio un archivo con xx registros asociados a 
 - Instagram: no se valido a tiempo el uso de la api de toma de datos
 - TikTok: no se valido a tiempo el uso de la api de toma de datos. Se realizo parte del codigo que instancia la misma. 
-- Twitter: se tomo un dataset de prueba de Amazon con Review de artículos de cocina y hogar con casi 7 millones de registros. Se etiqueto con sentimientos de pésimo, negativo, neutral, positiva y excelente. Se intento pasar a español para que sea fácil al momento de predecir pero resulto que las opciones para realizar esto estaban fuera de nuestro alcance.
+- Twitter: Actualmente, estamos experimentando restricciones en las funcionalidades proporcionadas por la API gratuita de Twitter. Hemos tomado la decisión de desestimar el uso de la API debido a las limitaciones de funcionalidades en su versión gratuita
+- DataSet Amazon: se tomo un dataset de prueba de Amazon con Review de artículos de cocina y hogar con casi 7 millones de registros. Se etiqueto con sentimientos de pésimo, negativo, neutral, positiva y excelente. Se intento pasar a español para que sea fácil al momento de predecir pero resulto que las opciones para realizar esto estaban fuera de nuestro alcance.
 Conclusion: dado los tiempos de respuesta para la obtencion de los accesos de autorización adicional de las API de las diferentes RRSS se concluye utilizar el archivo Meta.
 
 5- Carga de datos: archivo resultante de la extraccion de datos de Meta
