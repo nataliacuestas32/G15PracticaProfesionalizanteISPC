@@ -15,16 +15,6 @@
 - CONTRERAS, Carla
 - CORDOBA, Marcelo
 - CUESTAS, Natalia
-  
-1- Creación del repositorio remoto llamado G15 Practica Profesionalizante ISPC
-
-2- Armado de Trello por Equipo: [https://trello.com/b/6X7uUnio/agile-board-template-trello](https://trello.com/invite/b/6X7uUnio/ATTI6abceef26fb024674de9bc66694f633883550417/practica-profesionalizante-equipo-15)
-
-3- Definir tipo de problema y objetivo: El propósito del proyecto de Social Listening es implementar una estrategia de escucha activa en las redes sociales para comprender las percepciones, opiniones y sentimientos de clientes y la comunidad en línea..
-
-![image](https://i.ibb.co/phxDY9g/Brief.png)
-
-4- Analisis de factibilidad legaly factibilidad técnica:
 
 ### Librerias Utilizadas
 
@@ -38,7 +28,18 @@ A lo largo de este proyecto, hemos empleado diversas librerias de Python para re
 
 [tweepy](https://www.tweepy.com/): Utilizada para interactuar con la API de Twitter y obtener datos relevantes.
 
+  
+1- Creación del repositorio remoto llamado G15 Practica Profesionalizante ISPC
 
+2- Armado de Trello por Equipo: [https://trello.com/b/6X7uUnio/agile-board-template-trello](https://trello.com/invite/b/6X7uUnio/ATTI6abceef26fb024674de9bc66694f633883550417/practica-profesionalizante-equipo-15)
+
+3- Definir tipo de problema y objetivo: El propósito del proyecto de Social Listening es implementar una estrategia de escucha activa en las redes sociales para comprender las percepciones, opiniones y sentimientos de clientes y la comunidad en línea..
+
+<p align="center">
+  <img src="https://i.ibb.co/tKt32RT/BRIEF-SUMMARY-GERENCIA-1.png">
+</p>
+
+4- Analisis de factibilidad legal y factibilidad técnica:
 - Facebook: se consiguio un archivo con xx registros asociados a 
 - Instagram: no se valido a tiempo el uso de la api de toma de datos
 - TikTok: no se valido a tiempo el uso de la api de toma de datos. Se realizo parte del codigo que instancia la misma. 
