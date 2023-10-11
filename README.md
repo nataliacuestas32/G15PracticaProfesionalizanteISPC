@@ -17,7 +17,7 @@
 - CORDOBA, Marcelo
 - CUESTAS, Natalia
 
-### Librerias Utilizadas
+### Librerias Utilizadas :books:
 
 A lo largo de este proyecto, hemos empleado diversas librerias de Python para realizar análisis de datos, entrenar modelos y trabajar con datos. Algunas de las bibliotecas clave incluyen:
 
