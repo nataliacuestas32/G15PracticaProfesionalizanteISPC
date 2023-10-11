@@ -34,7 +34,9 @@ A lo largo de este proyecto, hemos empleado diversas librerias de Python para re
 
 2- **Armado de Trello por Equipo:**
 [https://trello.com/b/6X7uUnio/agile-board-template-trello](https://trello.com/invite/b/6X7uUnio/ATTI6abceef26fb024674de9bc66694f633883550417/practica-profesionalizante-equipo-15)
-
+<p align="center">
+<img src="https://i.ibb.co/kgktYHG/Screenshot-11.jpg">
+</p>
 3- **Definir tipo de problema y objetivo:** 
 El propósito del proyecto de Social Listening es implementar una estrategia de escucha activa en las redes sociales para comprender las percepciones, opiniones y sentimientos de clientes y la comunidad en línea..
 
